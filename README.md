@@ -1,5 +1,4 @@
-# Coustmer_Segmentation
-# Customer Segmentation Project
+# Customer Segmentation
 
 ## Overview
 This project aims to segment customers based on their purchasing behavior and demographic information, providing businesses with actionable insights for targeted marketing, improved customer experience, and strategic planning. The customer segmentation model uses clustering techniques to group similar customers together.
